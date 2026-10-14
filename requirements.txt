@@ -1,0 +1,14 @@
+librosa
+soundfile
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+torch
+transformers
+datasets
+accelerate
+evaluate
+opensmile
